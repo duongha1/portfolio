@@ -28,11 +28,52 @@
     background-repeat: no-repeat;
   }
 }
+
+@media screen and (max-width: 820px) {
+  .jumbo {
+    height: 100%;
+    .sum {
+      width: 60%;
+    }
+    .deco {
+      top: 57%;
+      width: 20%;
+    }
+  }
+}
 @media screen and (max-width: 770px) {
   .jumbo {
+    height: 100%;
+    .sum {
+      width: 60%;
+    }
     .deco {
-      top: 60%;
-      width: 200px;
+      top: 53%;
+      width: 23%;
+    }
+  }
+}
+@media screen and (max-width: 767px) {
+  .jumbo {
+    height: 100%;
+    .sum {
+      width: 60%;
+    }
+    .deco {
+      top: 75%;
+      width: 23%;
+    }
+  }
+}
+@media screen and (max-width: 740px) {
+  .jumbo {
+    height: 100%;
+    .sum {
+      width: 60%;
+    }
+    .deco {
+      top: 75%;
+      width: 30%;
     }
   }
 }
