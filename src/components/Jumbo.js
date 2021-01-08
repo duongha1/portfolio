@@ -9,8 +9,8 @@ export default function Jumbo(props) {
                 <div className="sum">
                     <p>Duong Ha</p>
                     <h2>Front-end Developer</h2>
-                    <p>As a developer, I have a passion to design a stunning website with modern web technologies. 
-                            I am pursuing to become a full-stack developer.</p>
+                    <p>As a developer, I love to design and develop stunning websites and apps with modern technologies. 
+                        I am pursuing to become a full-stack developer.</p>
                 </div>
                 <div className="deco">
                 </div>

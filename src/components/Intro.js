@@ -37,9 +37,10 @@ export default class Intro extends Component {
                     <Col md={6}>
                         <h2>About me</h2>
                         <p>
-                            Personally, I am a third-year student at Vaasa University of Applied Sciences, Software Engineering major. 
+                            Personally, I am completing my bachelor's degree at Vaasa University of Applied Sciences, Information Technology. 
                         I am a passionate web developer with experience in HTML, CSS, SCSS, JavaScript, 
-                        and some other frameworks and libraries (Bootstrap, Reactstrap, JQuery, React, Redux).
+                        and some other frameworks and libraries (Bootstrap, Reactstrap, JQuery, React, Redux).<br/>
+                        The other hobbies that I would love to do are dancing, drawing, and editing images by Photoshop
                         </p>
                         <button className="btn btn-custom" onClick={()=>this.changeImg()}><p>my images</p></button>
                     </Col>

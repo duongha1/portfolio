@@ -23,11 +23,11 @@ export default function Contact() {
                 </Col>
                 <Col md={6} className="contact">
                     <Linkedin/>
-                    <p>linkedin.com/in/duong-ha-57734b172/</p>
+                    <a href="https://www.linkedin.com/notifications/"><p>linkedin.com/in/duong-ha-57734b172/</p></a>
                 </Col>
                 <Col md={6} className="contact">
                     <Git/>
-                    <p>github.com/duongha1</p>
+                    <a href="https://github.com/duongha1"><p>github.com/duongha1</p></a>
                 </Col>
             </Row>
         </div>
